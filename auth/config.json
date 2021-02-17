@@ -1,0 +1,8 @@
+{
+  "saltRounds": 10,
+  "secretKey": "launchpad2022",
+  "tls": {
+    "cert": "./certs/fullchain.pem",
+    "key": "./certs/privkey.pem"
+  }
+}
